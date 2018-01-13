@@ -66,7 +66,7 @@ jQuery).
 
 Click on the New Pull Request button.
 
-![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
+![]()
 
 ### Step 2
 
@@ -83,7 +83,7 @@ Let's say you make a pull request from
 `https://github.com/your-user-name/awesome-lab` to
 `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a
 typo in your code. All you have to do is fix the typo, commit it and push up
-the changes to your branch. As long as the pull request already exists, the
+the changes to your branch. As long as the pull request already exists, th
 commits will be added automatically.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/github-pull-request-basics' title='Github Pull Request Basics'>Github Pull Request Basics</a> on Learn.co and start learning to code for free.</p>
